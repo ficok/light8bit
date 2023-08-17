@@ -2,7 +2,7 @@
   "name": "light-8bit",
   "displayName": "light-8bit",
   "description": "light color theme with 8bit colors (mostly)",
-  "version": "1.5.0",
+  "version": "1.5.6",
   "engines": {
     "vscode": "^1.79.0"
   },
